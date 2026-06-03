@@ -1,0 +1,1 @@
+print("World Cup 2026 Simulator")
